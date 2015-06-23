@@ -5,12 +5,12 @@
 [PowerShell-Wikipedia](https://en.wiki2.org/wiki/Windows_PowerShell)，主要内容如下：
 
 1. 背景知识
-2. 设计：cmdlet，pipeline，scripting，hosting
-3. 各版本变化：1.0，2.0，3.0，4.0，5.0
-4. Comparison of cmdlet with similar commands
-5. File extensions
-6. Application Support
-7. Alternative implementation
+1. 设计：cmdlet，pipeline，scripting，hosting
+1. 各版本变化：1.0，2.0，3.0，4.0，5.0
+1. Comparison of cmdlet with similar commands
+1. File extensions
+1. Application Support
+1. Alternative implementation
 
 # 特点
 
@@ -46,6 +46,7 @@
 - 2013-06-09: [An Introduction to Error Handling in PowerShell](http://blogs.msdn.com/b/kebab/archive/2013/06/09/an-introduction-to-error-handling-in-powershell.aspx)
 - 2013-06-11: [Understanding PowerShell's Type Conversion Magic](http://blogs.msdn.com/b/powershell/archive/2013/06/11/understanding-powershell-s-type-conversion-magic.aspx)
 - 2013-06-24: [Getting Started with Windows PowerShell Workflow](https://technet.microsoft.com/en-us/library/jj134242.aspx)
+- 2013-08-14: [Automation–Service Management Automation–Getting Started with SMA Runbooks](http://blogs.technet.com/b/privatecloud/archive/2013/08/14/automation-service-management-automation-getting-started-with-sma-runbooks.aspx)
 - 2013-08-30: [Introducing PowerShell Desired State Configuration (DSC)](http://blogs.technet.com/b/privatecloud/archive/2013/08/30/introducing-powershell-desired-state-configuration-dsc.aspx)
 - 2013-12-16: [PowerShell Security Best Practices](http://blogs.msdn.com/b/powershell/archive/2013/12/16/powershell-security-best-practices.aspx)
 - 2014-03-18: [Writing a PowerShell module in C#, Part 1: The basics](http://www.powershellmagazine.com/2014/03/18/writing-a-powershell-module-in-c-part-1-the-basics/)
@@ -57,6 +58,7 @@
 - 2014-08-08: [Executing PowerShell scripts from C#](http://blogs.msdn.com/b/kebab/archive/2014/04/28/executing-powershell-scripts-from-c.aspx)
 - 2015-04-29: [ScriptAnalyzer in GitHub and availability on PowerShell Gallery](http://blogs.msdn.com/b/powershell/archive/2015/04/29/scriptanalyzer-in-github-and-availability-on-powershell-gallery.aspx)
 - 2015-05-05: [Desired State Configuration Resources for PackageManagement Providers](http://blogs.msdn.com/b/powershell/archive/2015/05/05/desired-state-configuration-resources-for-packagemanagement-providers.aspx)
+- 2015-05-29: [How to register a node with a DSC pull server](http://blogs.msdn.com/b/powershell/archive/2015/05/29/how-to-register-a-node-with-a-dsc-pull-server.aspx)
 - 2015-06-03: [Looking Forward: Microsoft Support for Secure Shell (SSH)](http://blogs.msdn.com/b/powershell/archive/2015/06/03/looking-forward-microsoft-support-for-secure-shell-ssh.aspx)
 - 2015-06-09: [PowerShell ♥ the Blue Team](http://blogs.msdn.com/b/powershell/archive/2015/06/09/powershell-the-blue-team.aspx)
 - 2015-06-17: [Azure DSC Extension v2.0 released](http://blogs.msdn.com/b/powershell/archive/2015/06/17/azure-dsc-extension-v2-0-released.aspx)
@@ -71,11 +73,8 @@
 - [Psake](https://github.com/psake/psake) - a build automation tool… now with less XML…
 - [PowerShell Tools for Visual Studio 2013](https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597)
 - [DSC Resource Kit (All Modules)](https://gallery.technet.microsoft.com/scriptcenter/DSC-Resource-Kit-All-c449312d)
--
 
-# 相关资源
-
-## 网站
+# 相关网站
 
 - [PowerShell Gallery](https://www.powershellgallery.com/)
 - [Microsoft Script Center - Technet](https://technet.microsoft.com/en-us/scriptcenter/bb410849.aspx)
@@ -84,7 +83,7 @@
 - [PowerShell Magazine](http://www.powershellmagazine.com/)
 - [powershell.org](http://powershell.org/wp/)
 
-## 图书
+# 图书
 
 - "Learn PowerShell 3 in a month of Lunches (2nd)" by Don Jones
 - "PowerShell in Depth (2nd)" by Don Jonnes
